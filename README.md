@@ -324,6 +324,8 @@ The full Power BI dashboard provides the client with an interactive, self-servic
 
 ## Author
 
+**Happiness Onyemari**
+
 **Data Analytics Portfolio Project**
 Completed as part of the Edgeline Career Internship Program — Data Analytics stream.
 
